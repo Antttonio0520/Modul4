@@ -291,16 +291,13 @@ header {
 
 .customers-link{
    margin-top: 18px;
+   fill: #8e8f99;
 }
-/* .customers-link{
-   fill: red;
+.customers-link:hover,
+.customers-link:focus{
+   fill: var(--pressed-btn);
 }
 
-.customers-link:hover {
-   color: var(--pressed-btn);
-   stroke: var(--pressed-btn);
-   fill: var(--pressed-btn);
-} */
 
 
 /* Footer */
